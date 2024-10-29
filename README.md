@@ -1,3 +1,3 @@
-# Random-password
-Random password generator
-this code is for Random password generator in python programming language
+# Rock-Paper-Scissors
+Rock-Paper-Scissors game
+this code is for Rock-Paper-Scissors game in python programming language
